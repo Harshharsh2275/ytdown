@@ -7,3 +7,4 @@ Things to do in priority
 
 ability to just do npm run start <playlist-url> somethinng like this
 its so simple you just pass the argument by -- and its good, here's a good answer on stackoverflow - dont worry ill right a wiki about it, iam lazy i might not
+https://stackoverflow.com/questions/11580961/sending-command-line-arguments-to-npm-script
